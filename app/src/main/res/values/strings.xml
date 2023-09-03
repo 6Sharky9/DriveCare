@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">DriveCare</string>
+    <string name="app_logo">app</string>
+    <string-array name="location_options">
+        <item>Select Location</item>
+        <item><b>Mangalore</b>, Karnataka, India</item>
+        <item><b>Moodbidre</b>, Karnataka, India</item>
+        <item><b>Karkala</b>, Karnataka, India</item>
+        <item><b>Udupi</b>, Karnataka, India</item>
+    </string-array>
+</resources>

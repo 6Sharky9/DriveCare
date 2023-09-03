@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="16dp">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Message has been sent to the Indian Highway Authorities.\nPlease be patient while an assistant will contact you shortly. \n Do not switch off your phone. \nThank you."
+            android:textColor="#000000"
+            android:textSize="16sp"
+            android:gravity="center" />
+
+
+    </LinearLayout>
+
+
+
+</RelativeLayout>
